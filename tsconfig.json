@@ -12,6 +12,7 @@
         "sourceMap": true
     },
     "exclude": [
+        "build",
         "node_modules"
     ]
 }
